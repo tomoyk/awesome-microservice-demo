@@ -18,7 +18,7 @@
   - EC Site
   - [Live Demo](https://www.eshoponabp.com/)
   - [Architecture](https://github.com/abpframework/eShopOnAbp/blob/main/docs/roadmap/Phase_1.png)
-- [Doktor](https://github.com/cdsl-research/doktor-v2/)
+- [Doktor - cdsl-research/doktor-v2](https://github.com/cdsl-research/doktor-v2/)
   - Paper Search Site
   - [Live Demo](https://doktor.tak-cslab.org/)
   - [Architecture](https://github.com/cdsl-research/doktor-v2/blob/master/intro-doktor-v2.png)
