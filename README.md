@@ -2,12 +2,17 @@
 
 ## Microservices for demo
 
-- [GoogleCloudPlatform/microservices-demo: Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, and gRPC.](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [Online Boutique - GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
   - EC Site
-- [microservices-demo/microservices-demo: Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo)
+- [Sockshop - microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo)
   - EC Site
-- [FudanSELab/train-ticket: Train Ticket - A Benchmark Microservice System](https://github.com/FudanSELab/train-ticket)
+- [Train Ticket - FudanSELab/train-ticket](https://github.com/FudanSELab/train-ticket)
   - Train Ticket Site
+- [Bookinfo - istio/istio](https://github.com/istio/istio/tree/master/samples/bookinfo)
+  - Book Review Site
+- [eShopOnAbp - abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+  - EC Site
+
 
 ## Contribution
 
