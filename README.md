@@ -1,4 +1,4 @@
-# awesome-microservice-demo
+# Awesome Microservice Demo
 
 ## Microservices for demo
 
