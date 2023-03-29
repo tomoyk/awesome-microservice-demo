@@ -22,7 +22,7 @@
   - Paper Search Site
   - [✅ Live Demo](https://doktor.tak-cslab.org/)
   - [🏰 Architecture](https://github.com/cdsl-research/doktor-v2/blob/master/intro-doktor-v2.png)
-- [pymicro - rshriram/pymicro]
+- [pymicro - rshriram/pymicro](https://github.com/rshriram/pymicro)
   - N/A
   - [🏰 Architecture](https://github.com/rshriram/pymicro/blob/master/application-topology.png)
 
