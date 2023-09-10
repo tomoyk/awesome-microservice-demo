@@ -25,9 +25,18 @@
 - [pymicro - rshriram/pymicro](https://github.com/rshriram/pymicro)
   - N/A
   - [🏰 Architecture](https://github.com/rshriram/pymicro/blob/master/application-topology.png)
+- [ACME Air - acmeair/acmeair](https://github.com/acmeair/acmeair)
+  - Fictitious airline website
+  - [🏰 Architecture](https://www.researchgate.net/publication/332814750_An_extensible_data-driven_approach_for_evaluating_the_quality_of_microservice_architectures/figures?lo=1)
+- [Spring Cloud Microservice Example - kbastani/spring-cloud-microservice-example](https://github.com/kbastani/spring-cloud-microservice-example)
+
 
 ## Contribution
 
 You can contribute this repository. 
 
 If you find new microservices, please send pull-request.
+
+## References
+
+- C. M. Aderaldo, N. C. Mendonça, C. Pahl and P. Jamshidi, ["Benchmark Requirements for Microservices Architecture Research,"](https://ieeexplore.ieee.org/abstract/document/7968049) 2017 IEEE/ACM 1st International Workshop on Establishing the Community-Wide Infrastructure for Architecture-Based Software Engineering (ECASE), Buenos Aires, Argentina, 2017, pp. 8-13, doi: 10.1109/ECASE.2017.4.
