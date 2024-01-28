@@ -29,7 +29,8 @@
   - Fictitious airline website
   - [🏰 Architecture](https://www.researchgate.net/publication/332814750_An_extensible_data-driven_approach_for_evaluating_the_quality_of_microservice_architectures/figures?lo=1)
 - [Spring Cloud Microservice Example - kbastani/spring-cloud-microservice-example](https://github.com/kbastani/spring-cloud-microservice-example)
-
+- [MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans.](https://github.com/cisco-open/martian-bank-demo)
+- [TeaStore: A micro-service reference test application for model extraction, cloud management, energy efficiency, power prediction, single- and multi-tier auto-scaling](https://github.com/DescartesResearch/TeaStore)
 
 ## Contribution
 
