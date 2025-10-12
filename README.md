@@ -32,6 +32,7 @@
 - [MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans.](https://github.com/cisco-open/martian-bank-demo)
 - [TeaStore: A micro-service reference test application for model extraction, cloud management, energy efficiency, power prediction, single- and multi-tier auto-scaling](https://github.com/DescartesResearch/TeaStore)
 - [Hot R.O.D. - Rides on Demand: Demo app with instrumentation](https://github.com/signadot/hotrod)
+- [Hipster Shop: Cloud-Native Observability Demo Application](https://github.com/lightstep/hipster-shop)
 
 ## Contribution
 
