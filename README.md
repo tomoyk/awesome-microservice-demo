@@ -36,9 +36,7 @@
 
 ## Contribution
 
-You can contribute this repository. 
-
-If you find new microservices, please send pull-request.
+You can contribute this repository. If you find new microservices, please send pull-requests.
 
 ## References
 
