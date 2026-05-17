@@ -33,6 +33,7 @@
 - [TeaStore: A micro-service reference test application for model extraction, cloud management, energy efficiency, power prediction, single- and multi-tier auto-scaling](https://github.com/DescartesResearch/TeaStore)
 - [Hot R.O.D. - Rides on Demand: Demo app with instrumentation](https://github.com/signadot/hotrod)
 - [Hipster Shop: Cloud-Native Observability Demo Application](https://github.com/lightstep/hipster-shop)
+- [eShop: A reference .NET application implementing an eCommerce site](https://github.com/dotnet/eShop)
 
 ## Contribution
 
